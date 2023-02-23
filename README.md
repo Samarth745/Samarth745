@@ -6,8 +6,8 @@
 </h1>
 
 I am Samarth Prabhu, A Data Scientist, with a high degree of interest in Quantitative research and Data Science. 
-- Masters in Mathematcs
-- Exploring the world of Data Science and AI
+- A data scientist with Masters in Mathematics and a passion for solving complex problems using mathematics and machine learning.
+- I use Python, Excel, Statistics, PowerBI to extract insights from data and turn them into stories.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Samarth-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/samarth-prabhu)
 - To Know more - <a target="_blank">https://samarth745.github.io/Portfolio-Website/</a>
 
