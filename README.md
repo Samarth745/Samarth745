@@ -12,5 +12,5 @@ With proficiency in Python, Excel, Statistics, and PowerBI, I have a proven trac
  Connect with me on LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-Samarth-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/samarth-prabhu) <br>
  
  
-You can also visit my portfolio website to get a deeper insight into my skillset and experience. <a target="_blank">https://samarth745.github.io/Portfolio-Website/</a>
+You can also visit my portfolio website to get a deeper insight into my skillset and experience. <a target="_blank">[https://samarth745.github.io/Portfolio-Website](https://samarth745.github.io/PortFolioWebsite)/</a>
 
